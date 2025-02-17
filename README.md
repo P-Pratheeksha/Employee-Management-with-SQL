@@ -1,7 +1,6 @@
 # Employee-Management-with-SQL
 A basic SQL project for employee management
 
-# Employee Database SQL Queries
 This repository contains SQL scripts for creating and managing an `employees` database.  
 The queries demonstrate basic SQL operations such as creating tables, inserting data, selecting records, filtering, and deleting data.
 
